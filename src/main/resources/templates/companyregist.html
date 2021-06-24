@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<link
+	href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"
+	rel="stylesheet" id="bootstrap-css">
+<script
+	src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<meta charset="UTF-8" name="viewport"
+	content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+<title>company新規</title>
+<link rel="stylesheet" href="../css/login.css">
+
+</head>
+<body>
+
+
+
+	<form th:action="@{/companyregistProcess}" class="loginAndReg"
+		method="POST">
+		<h1>company新規</h1>
+		<p style = "color : red " th:text="${msg}" ></p>
+		<span class="registrationFormAlert" style="color:red;" id="CheckPasswordMatch"></span>
+		<input type="text" name="email" placeholder="Email" />
+	<div>
+		<input	type="password" id="password" name="password" placeholder="PassWord" />
+	</div>
+	
+		<input	type="password" id="password_confirmation" name="password_confirmation" 
+		  placeholder="password_confirmation" />
+	 
+	
+		<input	id="submit" type="submit" value="Done" />
+		<input   type= "reset"  value="reset" >
+		 <p>
+			<a th:href="@{/regist}">userregist</a> 
+			</p>
+	<a th:href="@{/login}">login</a> 
+	</form>
+
+<script >
+function checkPasswordMatch() {
+    var password = $("#password").val();
+    var confirmPassword = $("#password_confirmation").val();
+    if (password != confirmPassword)
+
+        $("#CheckPasswordMatch").html("Passwords does not match!") 
+    else
+        $("#CheckPasswordMatch").html("Passwords match.");
+}
+$(document).ready(function () {
+   $("#password_confirmation").keyup(checkPasswordMatch);
+});
+</script>
+
+</body>
+</html>
