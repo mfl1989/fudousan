@@ -14,17 +14,17 @@
 		<p style="color: red" th:text="${message}"
 				th:if="${not #strings.isEmpty(message)}"></p>
 		<span class="registrationFormAlert" style="color: red;"
-			id="CheckPasswordMatch"></span> <input type="text" name="email" placeholder="email"/>
+			id="CheckPasswordMatch"></span> <input type="text" name="email" placeholder="メールアドレス"/>
 		<div>
-			<input type="password" id="password" name="password" placeholder="PassWord"/>
+			<input type="password" id="password" name="password" placeholder="パスワード"/>
 		</div>
 
-		<input id="submit" type="submit" value="Login" />
+		<input id="submit" type="submit" value="登錄" />
 		<p>
-			<a th:href="@{/regist}">regist</a> 
+			<a th:href="@{/regist}">新規</a> 
 
 		</p>
-			<a th:href="@{/companyregist}">companyregist</a> 
+			<a th:href="@{/companyregist}">会社新規</a> 
 	</form>
 </body>
 </html>

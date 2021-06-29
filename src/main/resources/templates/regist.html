@@ -23,9 +23,9 @@
 		<h1>新規</h1>
 		<p style = "color : red " th:text="${msg}" ></p>
 		<span class="registrationFormAlert" style="color:red;" id="CheckPasswordMatch"></span>
-		<input type="text" name="email" placeholder="Email" />
+		<input type="text" name="email" placeholder="メールアドレス" />
 	<div>
-		<input	type="password" id="password" name="password" placeholder="PassWord" />
+		<input	type="password" id="password" name="password" placeholder="パスワード" />
 	</div>
 	
 		<input	type="password" id="password_confirmation" name="password_confirmation" 
@@ -36,10 +36,10 @@
 		<input   type= "reset"  value="reset" >
 		 <p>
 		
-			<a th:href="@{/companyregist}">companyregist</a> 
+			<a th:href="@{/companyregist}">会社新規</a> 
 
 		</p>
-	<a th:href="@{/login}">login</a> 
+	<a th:href="@{/login}">登錄</a> 
 	</form>
 
 <script >
