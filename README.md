@@ -54,11 +54,11 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 画面遷移図
 
-![image-20210629113406665](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629113406665.png)
+![image-20210629113406665](https://github.com/mfl1989/fudousan/blob/main/imgs/16662c46ffa11daed9121a64d3a5f5e.png)
 
-#### 2.1
+#### 2.1 er図
 
-![_20210629113458](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\_20210629113458.png)
+![_20210629113458](https://github.com/mfl1989/fudousan/blob/main/imgs/f1434a171f23a0ddcf8db97292ea710.png)
 
 
 
@@ -68,61 +68,61 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 #### 3.1メイン画面
 
-![image-20210629113925886](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629113925886.png)
+![image-20210629113925886](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629113925886.png)
 
 #### 3.2登録
 
-![image-20210629114025826](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114025826.png)
+![image-20210629114025826](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114025826.png)
 
 #### 3.3　ログインしたの画面
 
-![image-20210629114214144](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114214144.png)
+![image-20210629114214144](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114214144.png)
 
 #### 3.4個人センター
 
-#### ![image-20210629114341658](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114341658.png)
+#### ![image-20210629114341658](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114341658.png)
 
-![image-20210629114715937](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114715937.png)
+![image-20210629114715937](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114715937.png)
 
 #### 3-5　パスワード・変更
 
-![image-20210629114901942](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114901942.png)
+![image-20210629114901942](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114901942.png)
 
 #### 3-6　お気に入り一覧
 
-![image-20210629115425136](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115425136.png)
+![image-20210629115425136](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115425136.png)
 
 #### 3-7　物件アップロード
 
-![image-20210629115211797](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115211797.png)
+![image-20210629115211797](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115601724.png)
 
 #### 3-7　物件一覧
 
-![image-20210629115704012](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115704012.png)
+![image-20210629115704012](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115704012.png)
 
 #### 3.8 staff一覧
 
-![image-20210629115744780](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115744780.png)
+![image-20210629115744780](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115744780.png)
 
 #### 3.9 物件編集
 
 
 
-![image-20210629115849013](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115849013.png)
+![image-20210629115849013](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115849013.png)
 
 #### 3.10  admin
 
-![image-20210629115949177](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115949177.png)
+![image-20210629115949177](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115949177.png)
 
 #### 3.11  ユーザー一覧
 
-![image-20210629120038557](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629120038557.png)
+![image-20210629120038557](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629120038557.png)
 
 #### 3.12 物件一覧
 
 
 
-![image-20210629120320824](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629120320824.png)
+![image-20210629120320824](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629120320824.png)
 
 # ４．後ろ書き
 
