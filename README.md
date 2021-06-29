@@ -54,11 +54,11 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 画面遷移図
 
-![image-20210629113406665](https://github.com/mfl1989/fudousan/blob/main/imgs/16662c46ffa11daed9121a64d3a5f5e.png)
+![image-20210629113406665](https://github.com/mfl1989/fudousan/blob/main/imgs/32b747c7efc514eae699d8ba989867d.png)
 
 #### 2.1 er図
 
-![_20210629113458](https://github.com/mfl1989/fudousan/blob/main/imgs/f1434a171f23a0ddcf8db97292ea710.png)
+![_20210629113458](https://github.com/mfl1989/fudousan/blob/main/imgs/23d5fa4ff96eca50ef20600016f46c4.png)
 
 
 
@@ -68,61 +68,65 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 #### 3.1メイン画面
 
-![image-20210629113925886](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629113925886.png)
+![image-20210629113925886](https://github.com/mfl1989/fudousan/blob/main/imgs/560b4c9545f4ed093140790842473ad.png)
 
 #### 3.2登録
 
-![image-20210629114025826](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114025826.png)
-
+![image-20210629114025826](https://github.com/mfl1989/fudousan/blob/main/imgs/e4bade193c7904f2d1a51e3c78a1b76.png)
+#### 3.21会社新規
+![1327dd7eb96c17f5f7fc011320d4857](https://github.com/mfl1989/fudousan/blob/main/imgs/1327dd7eb96c17f5f7fc011320d4857.png)
+#### 3.22新規
+![5266cc69c55cec695405c0b5c6b3d5b](https://github.com/mfl1989/fudousan/blob/main/imgs/5266cc69c55cec695405c0b5c6b3d5b.png)
 #### 3.3　ログインしたの画面
 
 ![image-20210629114214144](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114214144.png)
 
 #### 3.4個人センター
 
-#### ![image-20210629114341658](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114341658.png)
+#### ![image-20210629114341658](https://github.com/mfl1989/fudousan/blob/main/imgs/ca6cb587cbfcc8430b1a5771d90a706.png)
 
-![image-20210629114715937](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114715937.png)
+![image-20210629114715937](https://github.com/mfl1989/fudousan/blob/main/imgs/2e9482d66d6071bea8da9fee52e47ce.png)
 
 #### 3-5　パスワード・変更
 
-![image-20210629114901942](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114901942.png)
+![image-20210629114901942](https://github.com/mfl1989/fudousan/blob/main/imgs/0116f21d9dd4e672a811d906736f7ae.png)
 
 #### 3-6　お気に入り一覧
 
-![image-20210629115425136](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115425136.png)
+![image-20210629115425136](https://github.com/mfl1989/fudousan/blob/main/imgs/75ef4a61a3f19ec37a61619f587efce.png)
 
 #### 3-7　物件アップロード
 
-![image-20210629115211797](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115601724.png)
+![image-20210629115211797](https://github.com/mfl1989/fudousan/blob/main/imgs/92c7bf9c2fcd7e6cc8a35896204e204.png)
 
 #### 3-7　物件一覧
 
-![image-20210629115704012](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115704012.png)
+![image-20210629115704012](https://github.com/mfl1989/fudousan/blob/main/imgs/98d7250cce6afd97c672dbcb6a08f5c.png)
 
 #### 3.8 staff一覧
 
-![image-20210629115744780](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115744780.png)
+![image-20210629115744780](https://github.com/mfl1989/fudousan/blob/main/imgs/cb5b8ab17f623d19957c26a8c3adbf5.png)
 
 #### 3.9 物件編集
 
 
 
-![image-20210629115849013](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115849013.png)
+![image-20210629115849013](https://github.com/mfl1989/fudousan/blob/main/imgs/f12895394fdcd760680c0864a20ea4f.png)
 
 #### 3.10  admin
 
-![image-20210629115949177](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629115949177.png)
+![image-20210629115949177](https://github.com/mfl1989/fudousan/blob/main/imgs/6b1f165f94736f06b359abab7332190.png)
 
 #### 3.11  ユーザー一覧
 
-![image-20210629120038557](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629120038557.png)
+![image-20210629120038557](https://github.com/mfl1989/fudousan/blob/main/imgs/703df95dc9d875005276635cc8b12df.png)
 
 #### 3.12 物件一覧
 
 
 
-![image-20210629120320824](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629120320824.png)
+![image-20210629120320824](https://github.com/mfl1989/fudousan/blob/main/imgs/5a1d958f1cf7265fd5b4fcc4399fd57.png)
+![2703774586e038d03dec6a613e33b6e](https://github.com/mfl1989/fudousan/blob/main/imgs/2703774586e038d03dec6a613e33b6e.png)
 
 # ４．後ろ書き
 
