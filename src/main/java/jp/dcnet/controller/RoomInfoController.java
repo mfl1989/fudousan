@@ -13,6 +13,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
+import jp.dcnet.entity.Picture;
+import jp.dcnet.object.BuildPicObject;
+import jp.dcnet.object.PictureObject;
 import jp.dcnet.object.RoomObject;
 import jp.dcnet.service.RoomService;
 
@@ -39,8 +42,9 @@ public class RoomInfoController {
 		ModelAndView mv = new ModelAndView("roomInfoEdit");// roomInfoEdit
 		// build idを取り出す
 		RoomObject rooms = roomService.roomInfoEdit(roomId);
+		List<PictureObject> picture =roomService.findPicByRoomId(roomId);
 		mv.addObject("room", rooms);
-
+		mv.addObject("pic", picture);
 		return mv;
 
 	}

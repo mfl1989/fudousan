@@ -167,7 +167,7 @@ public class FilesUploadController {
 
 	/**
 	 * 
-	 * byId の写真 一つ削除
+	 * byBuildPid の写真 一つ削除
 	 * 
 	 * @param buildPid
 	 * @return
@@ -181,4 +181,32 @@ public class FilesUploadController {
 		return "redirect:/buildInfoEdit/" + buildId;
 	}
 
+	/**
+	 * roomId 下の写真 すべて削除
+	 * @param roomId
+	 * @return
+	 */
+	@RequestMapping("/deleteRoomPicture/{id}")
+	public String deleteRoomPicture(@PathVariable("id") int roomId) {
+
+		
+		roomService.deleteByRoomId(roomId);
+		return "redirect:/roomInfoEdit/" + roomId;
+	}
+	
+	/**
+	 * byPicIdの写真 一つ削除
+	 * @param picId
+	 * @return
+	 */
+	@RequestMapping("/deleteOnePictureByRoom/{id}")
+	public String Room(@PathVariable("id") int picId) {
+
+		int roomId = roomService.findRidByPid(picId);
+		roomService.deleteById(picId);
+
+		return "redirect:/roomInfoEdit/" + roomId;
+	}
+
+	
 }

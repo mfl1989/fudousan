@@ -9,9 +9,11 @@ import javax.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import jp.dcnet.entity.BuildPic;
 import jp.dcnet.entity.Favorite;
 import jp.dcnet.entity.Picture;
 import jp.dcnet.entity.Room;
+import jp.dcnet.object.BuildPicObject;
 import jp.dcnet.object.PictureObject;
 import jp.dcnet.object.RoomObject;
 import jp.dcnet.repository.FavoriteRepository;
@@ -294,4 +296,47 @@ public class RoomService {
 		int bid= (int)roomRepository.findById(roomId).get().buildId;// TODO 自動生成されたメソッド・スタブ
 		return bid;
 	}
+
+	/**
+	 * 
+	 * 写真の編集
+	 * 
+	 * @param roomId
+	 * @return
+	 */
+		public List<PictureObject> findPicByRoomId(int roomId) {
+
+			List<PictureObject> showPObj = new ArrayList<PictureObject>();
+			List<Picture> showRPic = pictureRepository.findByRoomId(roomId);
+			for (Picture pic : showRPic) {
+				PictureObject bpic = new PictureObject();
+				bpic.setPicId(pic.picId);
+				bpic.setRoomId(roomId);
+				bpic.setCreatetime(new Timestamp(System.currentTimeMillis()));
+				bpic.setPictureurl(pic.getPictureurl());
+				showPObj.add(bpic);
+
+			}
+			return showPObj;
+		}
+
+	public void deleteByRoomId(int roomId) {
+		// TODO 自動生成されたメソッド・スタブ
+		List<Picture> findByRoomId = pictureRepository.findByRoomId(roomId);
+		pictureRepository.deleteAll(findByRoomId);
+	}
+
+	public int findRidByPid(int picId) {
+		// TODO 自動生成されたメソッド・スタブ
+		
+		int Rid = pictureRepository.findById(picId).get().getRoomId();
+		return Rid;
+	}
+
+	public void deleteById(int picId) {
+		// TODO 自動生成されたメソッド・スタブ
+		pictureRepository.deleteById(picId);
+	}
+	
+		
 }
