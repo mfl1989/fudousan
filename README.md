@@ -56,9 +56,11 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 ![image-20210629113406665](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629113406665.png)
 
-#### ER図
+#### 2.1
 
-![_20210629113458](C:\Users\mfl\Desktop\_20210629113458.png)
+![_20210629113458](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\_20210629113458.png)
+
+
 
 # 3. 画面
 
@@ -78,9 +80,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 #### 3.4個人センター
 
-#### 
-
-![image-20210629114341658](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114341658.png)
+#### ![image-20210629114341658](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114341658.png)
 
 ![image-20210629114715937](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629114715937.png)
 
@@ -94,7 +94,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 #### 3-7　物件アップロード
 
-![image-20210629115601724](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115601724.png)
+![image-20210629115211797](C:\Users\mfl\AppData\Roaming\Typora\typora-user-images\image-20210629115211797.png)
 
 #### 3-7　物件一覧
 
