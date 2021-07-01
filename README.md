@@ -79,7 +79,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 ![5266cc69c55cec695405c0b5c6b3d5b](https://github.com/mfl1989/fudousan/blob/main/imgs/5266cc69c55cec695405c0b5c6b3d5b.png)
 #### 3.3　ログインしたの画面
 
-![image-20210629114214144](https://github.com/mfl1989/fudousan/blob/main/imgs/image-20210629114214144.png)
+![image-da6cc178727b7358bd4d9176a65dd8a](https://github.com/mfl1989/fudousan/blob/main/imgs/da6cc178727b7358bd4d9176a65dd8a.png)
 
 #### 3.4個人センター
 
