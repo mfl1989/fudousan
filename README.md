@@ -85,7 +85,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 #### ![image-20210629114341658](https://github.com/mfl1989/fudousan/blob/main/imgs/ca6cb587cbfcc8430b1a5771d90a706.png)
 
-![image-20210629114715937](https://github.com/mfl1989/fudousan/blob/main/imgs/2e9482d66d6071bea8da9fee52e47ce.png)
+![image-e2ee3399b8ce8ec51766cca9681086a](https://github.com/mfl1989/fudousan/blob/main/imgs/e2ee3399b8ce8ec51766cca9681086a.png)
 
 #### 3-5　パスワード・変更
 
@@ -95,7 +95,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 ![image-20210629115425136](https://github.com/mfl1989/fudousan/blob/main/imgs/75ef4a61a3f19ec37a61619f587efce.png)
 
-#### 3-7　物件アップロード
+#### 3-7　アイコンアップロード/ビール新規
 
 ![image-20210629115211797](https://github.com/mfl1989/fudousan/blob/main/imgs/92c7bf9c2fcd7e6cc8a35896204e204.png)
 
@@ -113,7 +113,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 ![image-20210629115849013](https://github.com/mfl1989/fudousan/blob/main/imgs/f12895394fdcd760680c0864a20ea4f.png)
 
-#### 3.10  admin
+#### 3.10 管理員登録
 
 ![image-ca8adf7f4da271c8b24c55b91581b7b](https://github.com/mfl1989/fudousan/blob/main/imgs/6b1f165f94736f06b359abab7332190.png)
 
