@@ -20,7 +20,7 @@
 
 	<form th:action="@{/companyregistProcess}" class="loginAndReg"
 		method="POST">
-		<h1>会社新規</h1>
+		<h1>企業新規</h1>
 		<p style = "color : red " th:text="${msg}" ></p>
 		<span class="registrationFormAlert" style="color:red;" id="CheckPasswordMatch"></span>
 		<input type="text" name="email" placeholder="メールアドレス" />
@@ -35,7 +35,7 @@
 		<input	id="submit" type="submit" value="Done" />
 		<input   type= "reset"  value="reset" >
 		 <p>
-			<a th:href="@{/regist}">新規</a> 
+			<a th:href="@{/regist}">ユーザー新規</a> 
 			</p>
 	<a th:href="@{/login}">登録</a> 
 	</form>
