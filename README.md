@@ -99,7 +99,7 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 ![image-20210629115211797](https://github.com/mfl1989/fudousan/blob/main/imgs/92c7bf9c2fcd7e6cc8a35896204e204.png)
 
-#### 3-7　物件一覧
+#### 3-7　店舗管理物件一覧
 
 ![image-20210629115704012](https://github.com/mfl1989/fudousan/blob/main/imgs/98d7250cce6afd97c672dbcb6a08f5c.png)
 
