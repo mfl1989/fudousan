@@ -103,9 +103,9 @@ SpringBootフレームワークを用いた「飞毛骡」という不動産を�
 
 ![image-20210629115704012](https://github.com/mfl1989/fudousan/blob/main/imgs/98d7250cce6afd97c672dbcb6a08f5c.png)
 
-#### 3.8 staff一覧
+#### 3.8 スタッフ一覧
 
-![image-20210629115744780](https://github.com/mfl1989/fudousan/blob/main/imgs/cb5b8ab17f623d19957c26a8c3adbf5.png)
+![image-97af105922669912a0ad3333de59992](https://github.com/mfl1989/fudousan/blob/main/imgs/97af105922669912a0ad3333de59992.png)
 
 #### 3.9 物件編集
 
